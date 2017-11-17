@@ -1,0 +1,8 @@
+# robots.txt for http://lenellgames.de/
+# Zugriff auf alle Dateien erlauben
+User-agent: *
+Disallow: /README.txt
+Disallow: /LICENSE.txt
+Disallow: /imprint.html
+Disallow: /privacy.html
+
